@@ -1,0 +1,225 @@
+{"Node": [
+    {
+        "class": "fz",
+        "next": [
+            {
+                "field": "em",
+                "multiplier": 1,
+                "static": false
+            }
+        ],
+        "previous": [
+            {
+                "field": "dm",
+                "multiplier": 1,
+                "static": false
+            }
+        ],
+        "id": [
+            {
+                "field": "dz",
+                "multiplier": 1,
+                "static": false
+            }
+        ]
+    }
+], "CacheableNode": [
+    {
+        "class": "fs",
+        "next": [
+            {
+                "field": "cq",
+                "multiplier": 1,
+                "static": false
+            }
+        ],
+        "previous": [
+            {
+                "field": "cr",
+                "multiplier": 1,
+                "static": false
+            }
+        ]
+    }
+], "Renderable": [
+    {
+        "class": "ct"
+    }
+], "Actor": [
+    {
+        "class": "ai",
+        "text": [
+            {
+                "field": "ab",
+                "multiplier": 1,
+                "static": false
+            }
+        ],
+        "animation": [
+            {
+                "field": "aa",
+                "multiplier": 1417467497,
+                "static": false
+            }
+        ],
+        "regionX": [
+            {
+                "field": "m",
+                "multiplier": 463876355,
+                "static": false
+            }
+        ],
+        "regionY": [
+            {
+                "field": "o",
+                "multiplier": 1716044407,
+                "static": false
+            }
+        ],
+        "interacting": [
+            {
+                "field": "ax",
+                "multiplier": 1,
+                "static": false
+            }
+        ],
+        "orientation": [
+            {
+                "field": "bn",
+                "multiplier": 685427013,
+                "static": false
+            }
+        ]
+    }
+], "PlayerDefinition": [
+    {
+        "class": "fh",
+        "equipment": [
+            {
+                "field": "k",
+                "multiplier": 1,
+                "static": false
+            }
+        ]
+    }
+], "Player": [
+    {
+        "class": "k",
+        "name": [
+            {
+                "field": "x",
+                "multiplier": 1,
+                "static": false
+            }
+        ]
+    }
+], "client": [
+    {
+        "class": "client",
+        "player": [
+            {
+                "field": "ag.hq",
+                "multiplier": -1,
+                "static": true
+            }
+        ],
+        "players": [
+            {
+                "field": "gn",
+                "multiplier": -1,
+                "static": true
+            }
+        ],
+        "cameraX": [
+            {
+                "field": "ac.fl",
+                "multiplier": 2086499079,
+                "static": true
+            }
+        ],
+        "cameraY": [
+            {
+                "field": "w.fo",
+                "multiplier": 2062512597,
+                "static": true
+            }
+        ],
+        "cameraZ": [
+            {
+                "field": "cs.fa",
+                "multiplier": 875087083,
+                "static": true
+            }
+        ],
+        "cameraPitch": [
+            {
+                "field": "ck.fh",
+                "multiplier": -374871147,
+                "static": true
+            }
+        ],
+        "cameraYaw": [
+            {
+                "field": "w.fc",
+                "multiplier": -1235805465,
+                "static": true
+            }
+        ],
+        "compassAngle": [
+            {
+                "field": "dm",
+                "multiplier": -1510850841,
+                "static": true
+            }
+        ],
+        "plane": [
+            {
+                "field": "bp.hk",
+                "multiplier": 2108245957,
+                "static": true
+            }
+        ],
+        "baseY": [
+            {
+                "field": "ap.cf",
+                "multiplier": 1099401101,
+                "static": true
+            }
+        ],
+        "baseX": [
+            {
+                "field": "cd",
+                "multiplier": -134273463,
+                "static": true
+            }
+        ],
+        "state": [
+            {
+                "field": "b",
+                "multiplier": 70031595,
+                "static": true
+            }
+        ],
+        "skillExpArray": [
+            {
+                "field": "hj",
+                "multiplier": -1,
+                "static": true
+            }
+        ],
+        "skillLevelArray": [
+            {
+                "field": "hw",
+                "multiplier": -1,
+                "static": true
+            }
+        ],
+        "skillBaseLevelArray": [
+            {
+                "field": "ho",
+                "multiplier": -1,
+                "static": true
+            }
+        ]
+    }
+]}
